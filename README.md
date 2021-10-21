@@ -87,5 +87,5 @@
 
 
 # Connect With Me!
-|	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0773EC?logo=linkedin&logoColor=white)](https://linkedin.com/in/yongqin-jian-b788371a2)|[![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jianyqgo@gmail.com)|
-|------|------|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0773EC?logo=linkedin&logoColor=white)](https://linkedin.com/in/yongqin-jian-b788371a2)[![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jianyqgo@gmail.com)[![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/yongqinjian)
+
