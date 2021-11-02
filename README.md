@@ -1,6 +1,6 @@
 # Hey there, welcome 👋
 
-### I'm Yongqin Jian  
+### I'm Cody (Yongqin) Jian  
 - 🎓 Graduated from *University of Alberta* (2021 Apirl)  
 - 💻 BSc Specialization in Computing Science  
 - 😏 Passionate about Programming  
