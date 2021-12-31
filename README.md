@@ -26,7 +26,7 @@
 
 </p><br>
 
-## 🧰Frameworks and Libraries
+## 🧰Frameworks and Packages
 <p align=center>
 <img alt="Django" src="https://img.shields.io/badge/Django-1AD75C?style=for-the-badge&logo=django">
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-C28E0D?style=for-the-badge&logo=firebase">
@@ -65,11 +65,7 @@
 
 ## Learning In Progress
 <code><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img alt="powerBI" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+
 
 <i style="font-size:2em">good software developers can quickly learn new input in no time</i>
 <br>
