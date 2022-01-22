@@ -2,16 +2,18 @@
 
 ### I'm Cody (Yongqin) Jian  
 
-<div style="display:flex">
-  <div>
+<div>
+  <div style="float:left;width:45%;">
     <ul>
       <li> 🎓 Graduated from <b>University of Alberta</b> (2021 June)  </li>
       <li> 💻 BSc Specialization in Computing Science  </li>
       <li> 😏 Passionate about Programming  </li>
     </ul>
   </div>
+  
   <br>
-  <div><img alt="streak" src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear" /></div>
+  
+  <div style="float:right;width:45%;"><img alt="streak" src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear" /></div>
 </div>
 
 
