@@ -3,7 +3,7 @@
 ### I'm Cody (Yongqin) Jian  
 
 <div>
-  <div style="float:left;width:50%;">
+  <div style="float:left;width:40%;">
     <ul>
       <li> 🎓 Graduated from <b>University of Alberta</b> (2021 June)  </li>
       <li> 💻 BSc Specialization in Computing Science  </li>
@@ -13,7 +13,7 @@
   
   <br>
   
-  <div style="float:right;width:50%;"><img alt="streak" src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear" /></div>
+  <div style="float:right;width:40%;"><img alt="streak" src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear" /></div>
 </div>
 
 
