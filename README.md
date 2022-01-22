@@ -1,9 +1,22 @@
 # Hey there, welcome 👋
 
 ### I'm Cody (Yongqin) Jian  
-- 🎓 Graduated from *University of Alberta* (2021 April)  
-- 💻 BSc Specialization in Computing Science  
-- 😏 Passionate about Programming  
+
+<div>
+  <div style="float: left; width: 50%">
+    <ul>
+      <li> 🎓 Graduated from <b>University of Alberta</b> (2021 June)  </li>
+      <li> 💻 BSc Specialization in Computing Science  </li>
+      <li> 😏 Passionate about Programming  </li>
+    </ul>
+  </div>
+  <div style="float: right; width: 50%">
+    <img alt="streak" src="https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear" />
+  </div>
+</div>
+
+
+
 
 <br>
 
@@ -35,7 +48,7 @@
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-E7E8DE?style=for-the-badge&logo=pytorch">
-<img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<!-- <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"> -->
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white">
 <img alt="Sckit-Learn" src="https://img.shields.io/badge/Sckit--Learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-659CC1?style=for-the-badge&logo=sqlite">
@@ -65,6 +78,10 @@
 
 ## Learning In Progress
 <code><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img alt="TailwindCss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
 
 <i style="font-size:2em">good software developers can quickly learn new input in no time</i>
@@ -75,10 +92,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yongqinjian&repo=Bee)](https://github.com/YongqinJian/Bee)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yongqinjian&repo=social-distribution)](https://github.com/yongqinjian/social-distribution)
 
-# Yongqin's Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian)  
+ 
 
 
 
