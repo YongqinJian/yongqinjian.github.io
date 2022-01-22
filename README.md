@@ -6,7 +6,9 @@
   <div style="margin-right:2em">
     <ul>
       <li> 🎓 Graduated from <b>University of Alberta</b> (2021 June)</li>
+      <br>
       <li> 💻 BSc Specialization in Computing Science  </li>
+      <br>
       <li> 😏 Passionate about Programming  </li>
     </ul>
   </div>
